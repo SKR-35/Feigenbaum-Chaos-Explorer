@@ -19,8 +19,6 @@ htmlcov/
 output/*
 !output/
 !output/.gitkeep
+!docs/UI_1.png
+docs/
 
-docs/UI_[2-5].png
-docs/UI_7.png
-docs/UI_9.png
-docs/UI_[11-12].png
