@@ -7,6 +7,10 @@ The application does more than draw a logistic-map bifurcation diagram. It numer
 - Parameter-space scaling: **δ ≈ 4.6692016091**
 - State-space scaling: **α ≈ −2.5029078751**
 
+## Application Preview
+
+![Application Preview](docs/UI_1.png)
+
 ## Features
 
 ### Interactive visualizations
