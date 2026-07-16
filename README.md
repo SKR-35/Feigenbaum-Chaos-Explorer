@@ -1,3 +1,3 @@
-##Feigenbaum-Chaos-Explorer
+## Feigenbaum-Chaos-Explorer
 
 In progress
