@@ -112,7 +112,3 @@ The striking result is universality: smooth one-dimensional maps with a quadrati
 ```bash
 pytest -q
 ```
-
-## License
-
-Apache License 2.0.
